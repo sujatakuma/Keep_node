@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Keep_node/static/css/main.18219d75.css",
+    "main.js": "/Keep_node/static/js/main.f484d17d.js",
+    "index.html": "/Keep_node/index.html",
+    "main.18219d75.css.map": "/Keep_node/static/css/main.18219d75.css.map",
+    "main.f484d17d.js.map": "/Keep_node/static/js/main.f484d17d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18219d75.css",
+    "static/js/main.f484d17d.js"
+  ]
+}
